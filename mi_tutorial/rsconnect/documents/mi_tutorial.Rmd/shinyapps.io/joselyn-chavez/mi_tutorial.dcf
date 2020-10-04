@@ -1,0 +1,12 @@
+name: mi_tutorial
+title: mi_tutorial
+username:
+account: joselyn-chavez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2937593
+bundleId: 3698887
+url: https://joselyn-chavez.shinyapps.io/mi_tutorial/
+when: 1601740730.68578
+asMultiple: FALSE
+asStatic: FALSE
